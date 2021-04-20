@@ -1,13 +1,14 @@
 # D3P: Data-driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems
 
-## Requirements
+## Prerequisites
+
 
 ```
-python=3.6   
-numpy
-pandas  
-tensorflow-gpu=1.8.0  
-scikit-learn  
+- python=3.6   
+- numpy
+- pandas  
+- tensorflow-gpu=1.8.0  
+- scikit-learn  
 ```
 
 ## Data Preparation
